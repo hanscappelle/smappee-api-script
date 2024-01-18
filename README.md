@@ -48,3 +48,9 @@ The result for me is that I now have maximised solar consumption. Which is great
 when I don't.
 
 ![smappee app usage example](https://github.com/hanscappelle/smappee-api-script/blob/8dcacad5effba90c413c774c0c64c6ee2f07a72f/screenshots/Screenshot_20240111-103422.png)
+
+## References
+
+Info on Task Scheduler from Synology docs: https://kb.synology.com/en-id/DSM/help/DSM/AdminCenter/system_taskscheduler?version=7
+Bash scripts and flags: https://www.baeldung.com/linux/use-command-line-arguments-in-bash-script
+Smappee dev docs: https://smappee.atlassian.net/wiki/spaces/DEVAPI/overview
