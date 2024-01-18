@@ -2,12 +2,14 @@
 
 Basic bash script to trigger mode updates for my Smappee EV Wall Home charger using their API
 
+![Picture of my charger](https://github.com/hanscappelle/smappee-api-script/blob/51c419e830c4151ff91c855e3bde6c52a4cebe86/screenshots/PXL_20240118_110605503.jpg)
+
 ## How to use
 
 First you'll need API access, this can be requested with smappee following these instructions 
 https://smappee.atlassian.net/wiki/spaces/DEVAPI/overview
 
-With that information you can simply use the required flags on this script to trigger mode updates:
+With that information you can use the required flags on this script to trigger mode updates:
 
 ```
  -i = client_id
