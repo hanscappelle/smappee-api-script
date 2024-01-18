@@ -31,9 +31,9 @@ response. I've used my Synology NAS since that is running all the time and meets
 From your synology dashboard just go to `Control Panel` > `Task Scheduler` then pick `Create` > `Scheduled Task` > 
 `User-defined script` and follow the wizard to get tasks set up.
 
-!(screenshots/Screenshot 2024-01-18 at 08.57.34.png)
+!(https://github.com/hanscappelle/smappee-api-script/blob/e7d69c67dd9bbe8e51a1ed23384779d321d5cbd6/screenshots/Screenshot%202024-01-18%20at%2008.57.34.png)
 
 I have 2 set up, one to toggle to `SMART` mode in the morning when electricity gets more expensive. And another one
 to toggle to `NORMAL` mode for charging overnight.
 
-!(screenshots/Screenshot 2024-01-18 at 11.30.22.png)
+!(https://github.com/hanscappelle/smappee-api-script/blob/e7d69c67dd9bbe8e51a1ed23384779d321d5cbd6/screenshots/Screenshot%202024-01-18%20at%2011.30.22.png)
