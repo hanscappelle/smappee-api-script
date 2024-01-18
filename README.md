@@ -9,6 +9,7 @@ https://smappee.atlassian.net/wiki/spaces/DEVAPI/overview
 
 With that information you can simply use the required flags on this script to trigger mode updates:
 
+````
  -i = client_id
  -s = client_secret
  -u = username
@@ -16,6 +17,7 @@ With that information you can simply use the required flags on this script to tr
  -m = mode to toggle to (NORMAL, SMART or PAUSED)
  -d = device serial (check in Smappee app)
  -c = connector (typically 1 or 2)
+```
 
 Example execution to set charger mode to SMART on port 1 (the port on the RIGHT side of the charger)
 
