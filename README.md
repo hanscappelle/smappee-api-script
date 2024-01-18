@@ -41,3 +41,10 @@ I have 2 set up, one to toggle to `SMART` mode in the morning when electricity g
 to toggle to `NORMAL` mode for charging overnight.
 
 ![Scheduled Tasks](https://github.com/hanscappelle/smappee-api-script/blob/e7d69c67dd9bbe8e51a1ed23384779d321d5cbd6/screenshots/Screenshot%202024-01-18%20at%2011.30.22.png)
+
+## The result
+
+The result for me is that I now have maximised solar consumption. Which is great since the grid here can't take it 
+when I don't.
+
+![smappee app usage example](https://github.com/hanscappelle/smappee-api-script/blob/8dcacad5effba90c413c774c0c64c6ee2f07a72f/screenshots/Screenshot_20240111-103422.png)
